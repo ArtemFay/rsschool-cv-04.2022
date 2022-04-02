@@ -1,7 +1,9 @@
+
+
 ## [rsschool-cv](https://github.com/ArtemFay/rsschool-cv)
 
 # Artem Fayzulov 
-![Artem Fayzulov](ava.jpg)
+<img src="ava.jpg" alt="drawing" width="300"/>
 
 ### Contact information:
 
