@@ -1,2 +1,2 @@
-# rsschool-cv
-CV#1. Markdown &amp; Git
+https://ArtemFay.github.io/rsschool-cv/                                
+https://ArtemFay.github.io/rsschool-cv/cv
